@@ -7,5 +7,6 @@ Machine Learning and statistical knowledge cheatnotes
   * Way to Choose Between Model
 
 * To view:
-  * Download and open the html file in chrome.
+  * Download by running 
+ ```wget https://raw.githubusercontent.com/yiwei-ang/ml_documentation/main/ML_statistics_cheatnotes.html```
  
